@@ -18,6 +18,7 @@ class TableViewController: UITableViewController, viewProtocol {
 
         self.navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .Add, target: self, action: Selector("addNewObject"))
         //print hello
+        //print hello 2
     }
 
     func addNewObject(){
