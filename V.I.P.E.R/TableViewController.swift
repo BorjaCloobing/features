@@ -20,7 +20,9 @@ class TableViewController: UITableViewController, viewProtocol {
         //print hello dev
         
     }
-
+    func nada(){
+        
+    }
     func addNewObject(){
         
         presenter?.addNewObject()
