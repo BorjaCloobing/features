@@ -21,7 +21,7 @@ class TableViewController: UITableViewController, viewProtocol {
         
     }
     func nada(){
-        
+        //Print estoy en pre
     }
     func addNewObject(){
         
